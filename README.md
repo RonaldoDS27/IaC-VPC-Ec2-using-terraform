@@ -2,7 +2,7 @@
 Create a simple VPC and Ec2 Instance, using terraform with the cloud AWS
 
 
-Estos archivos de IaC, te permiten crear una VPC con diferentes subnets publicas y privadas, asi como sus respectivas tablas de rutas publicas y privadas, para que puedasconsumir de manera correcta tus servicios que quieres desplegar.
+Estos archivos de IaC, te permiten crear una VPC con diferentes subnets publicas y privadas, asi como sus respectivas tablas de rutas publicas y privadas, para que puedas consumir de manera correcta tus servicios que quieres desplegar.
 
 Adicional a ello, te crea una instancia Ec2, y un grupo de seguridad que permite ciertas reglas de trafico para que puedas acceder a la Instancia.
 
